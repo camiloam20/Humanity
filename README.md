@@ -1,16 +1,21 @@
-# humanity
+# Humanity
 
-Humanity Mobile App
+Nuestra aplicación, Humanity, es una aplicación móvil que conecta usuarios con proveedores de servicios en el Área metropolitana del Valle de Aburrá, permitiendo buscar, comparar y contratar profesionales de manera rápida y segura.
 
-## Getting Started
+<p align="center">
+  <img src="Content/Logo.png" alt="Logo" width="200"/>
+</p>
 
-This project is a starting point for a Flutter application.
+## Herramientas:
 
-A few resources to get you started if this is your first Flutter project:
+Este proyecto fue desarrollado a través de las siguientes herramientas:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Android Studio](https://developer.android.com/studio?hl=es-419)
+- [Flutter](https://flutter.dev)
+- [Dart](https://dart.dev)
+  
+## Contacto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Camilo Alvarez Muñoz: camilo.alvarezm@udea.edu.co
+
+Juan Camilo Arteaga Ibarra: camilo.arteaga1@udea.edu.co
